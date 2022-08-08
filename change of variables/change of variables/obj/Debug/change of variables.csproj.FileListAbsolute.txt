@@ -1,0 +1,8 @@
+D:\Visual Studio\Project\change of variables\change of variables\bin\Debug\change of variables.exe.config
+D:\Visual Studio\Project\change of variables\change of variables\bin\Debug\change of variables.exe
+D:\Visual Studio\Project\change of variables\change of variables\bin\Debug\change of variables.pdb
+D:\Visual Studio\Project\change of variables\change of variables\obj\Debug\change of variables.csproj.AssemblyReference.cache
+D:\Visual Studio\Project\change of variables\change of variables\obj\Debug\change of variables.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Project\change of variables\change of variables\obj\Debug\change of variables.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\change of variables\change of variables\obj\Debug\change of variables.exe
+D:\Visual Studio\Project\change of variables\change of variables\obj\Debug\change of variables.pdb
